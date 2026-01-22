@@ -1,0 +1,29 @@
+Title: Week 2 – Data Structures and Functions
+
+Topics Learned:
+
+Lists & Tuples: Store sequences of items; mutable vs immutable
+
+Dictionaries: Key-value pairs, useful for mapping data
+
+Sets: Store unique items, remove duplicates easily
+
+Functions: Reusable blocks of code
+
+Lambda Functions: Anonymous, single-line functions
+
+Recursion: Function calling itself; useful for factorial, Fibonacci
+
+List Comprehension: Short way to create lists
+
+Hands-On Tasks Done:
+
+Removed duplicates from a list
+
+Filtered data based on a condition
+
+Wrote function to calculate sum of squares
+
+Used lambda to double numbers
+
+Used recursion for factorial
