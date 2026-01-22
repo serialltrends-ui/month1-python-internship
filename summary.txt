@@ -1,0 +1,12 @@
+Week 1 Summary – Introduction to Python Programming
+
+In Week 1, I learned the basics of Python programming.
+I studied variables, data types, operators, input and output functions.
+I also learned conditional statements and loops.
+
+I implemented basic Python programs such as a temperature converter
+and a simple calculator. I also created a basic data processing script
+to calculate the average temperature.
+
+This week helped me understand how to write simple Python programs
+for solving real-world problems.
