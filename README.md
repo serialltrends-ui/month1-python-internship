@@ -1,2 +1,7 @@
-# month1-python-internship
-Python basics &amp; data manipulation project
+# Month 1 – Python Internship
+
+## Week 1
+- Temperature Converter
+- Simple Calculator
+- Average Temperature Calculation
+- Python basics: variables, data types, loops, input/output
